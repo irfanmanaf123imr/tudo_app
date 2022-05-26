@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030120473468",
+    "project_id": "manaf123-e065b",
+    "storage_bucket": "manaf123-e065b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030120473468:android:3dd94a5f4499ad2d069af9",
+        "android_client_info": {
+          "package_name": "com.manaf.name"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030120473468-r0vp2dm7kbo00s59nodn87d4vdb6a8dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD21XqEX8spKZ-VyrxRxDLU6tq9DSiDDPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030120473468-r0vp2dm7kbo00s59nodn87d4vdb6a8dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
